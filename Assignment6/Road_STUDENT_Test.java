@@ -3,10 +3,7 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-/**
- * @author Landon Badstibner
- * Student test for Road class
- */
+
 public class Road_STUDENT_Test {
 	Road r1;
 	Road r2;
